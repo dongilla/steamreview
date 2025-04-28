@@ -4,3 +4,5 @@ transformers
 matplotlib
 wordcloud
 nltk
+torch
+tensorflow
